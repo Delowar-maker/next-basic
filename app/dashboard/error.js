@@ -21,7 +21,7 @@ export function Signup() {
     );
 }
 
-// project structured
+// project structured form
 
 // <RootLayout>
 //     <Suspense fallback={<DashboardLoding/>}>
