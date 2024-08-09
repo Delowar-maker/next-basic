@@ -10,6 +10,7 @@ export default function Heavy() {
     )
 }
 
+// How to work loding page 
 
 {/* <Layout>
     <Suspense>
